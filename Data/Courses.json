@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "title":"React JS",
+        "cat_id":"react"
+    },
+    {
+        "id":3,
+        "title":"HTML",
+        "cat_id":"html"
+    },
+    {
+        "id":4,
+        "title":"CSS",
+        "cat_id":"css"
+    },
+    {
+        "id":5,
+        "title":"Bootstrap",
+        "cat_id":"bootstrap"
+    },
+    {
+        "id":6,
+        "title":"Tailwind",
+        "cat_id":"tailwind"
+    },
+    {
+        "id":7,
+        "title":"Javascript",
+        "cat_id":"javascript"
+    },
+   
+    {
+        "id":8,
+        "title":"Node JS",
+        "cat_id":"node"
+    },
+    {
+        "id":9,
+        "title":"Express JS",
+        "cat_id":"express"
+    },
+    {
+        "id":10,
+        "title":"JSON",
+        "cat_id":"json"
+    },
+    {
+        "id":11,
+        "title":"Firebase",
+        "cat_id":"mysql"
+    },
+    {
+        "id":12,
+        "title":"MongoDB",
+        "cat_id":"react"
+    }
+
+]
