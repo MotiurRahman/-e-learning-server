@@ -5,55 +5,60 @@
         "cat_id":"react"
     },
     {
-        "id":3,
+        "id":2,
         "title":"HTML",
         "cat_id":"html"
     },
     {
-        "id":4,
+        "id":3,
         "title":"CSS",
         "cat_id":"css"
     },
     {
-        "id":5,
+        "id":4,
         "title":"Bootstrap",
         "cat_id":"bootstrap"
     },
     {
-        "id":6,
+        "id":5,
         "title":"Tailwind",
         "cat_id":"tailwind"
     },
     {
-        "id":7,
+        "id":6,
         "title":"Javascript",
         "cat_id":"javascript"
     },
    
     {
-        "id":8,
+        "id":7,
         "title":"Node JS",
         "cat_id":"node"
     },
     {
-        "id":9,
+        "id":8,
         "title":"Express JS",
         "cat_id":"express"
     },
     {
-        "id":10,
+        "id":9,
         "title":"JSON",
         "cat_id":"json"
     },
     {
-        "id":11,
+        "id":10,
         "title":"Firebase",
         "cat_id":"mysql"
     },
     {
-        "id":12,
+        "id":11,
         "title":"MongoDB",
         "cat_id":"react"
+    },
+    {
+        "id":12,
+        "title":"MySQL",
+        "cat_id":"mysql"
     }
 
 ]
