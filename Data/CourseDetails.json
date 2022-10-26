@@ -11,7 +11,7 @@
     "id":2,
     "cat_id":"react",
     "title":"React Getting Started",
-    "image":"/images/react2.png",
+    "image":"/images/react2.jpg",
     "desc": "To use React in production, you need npm which is included with Node.js.\nTo get an overview of what React is, you can write React code directly in HTML.\nBut in order to use React in production, you need npm and Node.js installed."
 },
 {
