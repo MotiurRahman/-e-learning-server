@@ -2,7 +2,8 @@ const express = require("express");
 const app = express();
 var cors = require("cors");
 const port = process.env.PORT || 8000;
-app.use(express.static("public"));
+const path = require("path");
+app.use("/", express.static(path.join(__dirname, "public")));
 
 const courses = require("./Data/Courses.json");
 const courseDetails = require("./Data/CourseDetails.json");
