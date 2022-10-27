@@ -19,76 +19,76 @@
     "cat_id":"react",
     "title":"React ES6",
     "image":"/images/react3.png",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "ES6 stands for ECMAScript 6. ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015."
 },
 {
     "id":4,
     "cat_id":"react",
     "title":"React ES6 Classes",
     "image":"/images/react4.png",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "ES6 introduced classes. A class is a type of function, but instead of using the keyword function to initiate it, we use the keyword class, and the properties are assigned inside a constructor() method."
 },
 {
     "id":5,
     "cat_id":"react",
     "title":"React ES6 Arrow Functions",
     "image":"/images/react5.svg",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "It gets shorter! If the function has only one statement, and the statement returns a value, you can remove the brackets and the return keyword"
 },
 {
     "id":6,
     "cat_id":"react",
     "title":"React ES6 Variables",
     "image":"/images/react6.png",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "Before ES6 there was only one way of defining your variables: with the var keyword. If you did not define them, they would be assigned to the global object. Unless you were in strict mode, then you would get an error if your variables were undefined. Now, with ES6, there are three ways of defining your variables: var, let, and const.."
 },
 {
     "id":7,
     "cat_id":"react",
     "title":"React ES6 Array Methods",
     "image":"/images/react7.png",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "There are many JavaScript array methods. One of the most useful in React is the .map() array method. The .map() method allows you to run a function on each item in the array, returning a new array as the result. In React, map() can be used to generate lists."
 },
 {
     "id":8,
     "cat_id":"react",
     "title":"React Render HTML",
     "image":"/images/react1.png",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "The ReactDOM.render() function takes two arguments, HTML code and an HTML element. The purpose of the function is to display the specified HTML code inside the specified HTML element. But render where? There is another folder in the root directory of your React project, named public. In this folder, there is an index.html file. You'll notice a single <div> in the body of this file. This is where our React application will be rendered."
 },
 {
     "id":9,
     "cat_id":"react",
     "title":"React Hooks",
     "image":"/images/react3.png",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "Hooks were added to React in version 16.8. \n Hooks allow function components to have access to state and other React features. Because of this, class components are generally no longer needed.\nAlthough Hooks generally replace class components, there are no plans to remove classes from React."
 },
 {
     "id":10,
     "cat_id":"react",
     "title":"React useState Hook",
     "image":"/images/react4.png",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "The React useState Hook allows us to track state in a function component. State generally refers to data or properties that need to be tracking in an application."
 },
 {
     "id":11,
     "cat_id":"react",
     "title":"React useEffect Hooks",
     "image":"/images/react7.png",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "The useEffect Hook allows you to perform side effects in your components. Some examples of side effects are: fetching data, directly updating the DOM, and timers. useEffect accepts two arguments. The second argument is optional. \nuseEffect(<function>, <dependency>)"
 },
 {
     "id":12,
     "cat_id":"react",
     "title":"React useContext Hook",
     "image":"/images/react2.jpg",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "React Context is a way to manage state globally. It can be used together with the useState Hook to share state between deeply nested components more easily than with useState alone."
 },
 {
     "id":13,
     "cat_id":"react",
     "title":"React useRef Hook",
     "image":"/images/react3.png",
-    "desc": "React is a JavaScript library for building user interfaces.\n React is used to build single-page applications.\nReact allows us to create reusable UI components."
+    "desc": "The useRef Hook allows you to persist values between renders. It can be used to store a mutable value that does not cause a re-render when updated. It can be used to access a DOM element directly.."
 }
 ]
